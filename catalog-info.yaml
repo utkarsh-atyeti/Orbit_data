@@ -4,8 +4,8 @@ metadata:
   name: backstage
   description: An example of a Backstage application.
   annotations:
-    org/pkg: 'PuppetContent/PuppetContent_abn_amro_rpm'
+    org/pkg: PuppetContent/PuppetContent_abn_amro_rpm
 spec:
   type: website
-  owner: guests
+  owner: 
   lifecycle: experimental
