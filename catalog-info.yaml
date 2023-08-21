@@ -4,7 +4,7 @@ metadata:
   name: backstage
   description: An example of a Backstage application.
   annotations:
-    org/pkg: PuppetContent/PuppetContent_OP_Bank_investment_dashboard_rpm
+    org/pkg: 'PuppetContent/PuppetContent_OP_Bank_investment_dashboard_rpm'
 spec:
   type: website
   owner: guests
