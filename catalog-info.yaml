@@ -7,5 +7,5 @@ metadata:
     org/pkg: 'PuppetContent/PuppetContent_OP_Bank_investment_dashboard_rpm'
 spec:
   type: website
-  owner: guests
+  owner: 'guests'
   lifecycle: experimental
