@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage
+  description: An example of a Backstage application.
+  # Example for optional annotations
+  annotations:
+    org/pkg: PuppetContent/PuppetContent_OP_Bank_investment_dashboard_rpm
+spec:
+  type: website
+  owner: CNCF
+  lifecycle: experimental
