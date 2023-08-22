@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Orbit
+  description: An example of a Backstage application.
+  # Example for optional annotations
+  annotations:
+    org/pkg: PuppetContent/PuppetContent_abn_amro_rpm
+spec:
+  type: website
+  owner: CNCF
+  lifecycle: experimental
