@@ -5,7 +5,7 @@ metadata:
   description: An example of a Backstage application.
   # Example for optional annotations
   annotations:
-   orbit/org-package: PuppetContent/PuppetContent_OP_Bank_investment_dashboard_rpm , PuppetContent/PuppetContent_abn_amro_rpm
+   orbit/org-package: PuppetContent/PuppetContent_OP_Bank_investment_dashboard_rpm,PuppetContent/PuppetContent_abn_amro_rpm
 spec:
   type: website
   owner: guests
